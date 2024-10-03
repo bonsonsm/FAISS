@@ -9,8 +9,8 @@ https://www.youtube.com/watch?v=sKyvsdEv6rk&list=PLIUOU7oqGTLhlWpTz4NnuT3FekouIV
 https://www.pinecone.io/learn/series/faiss/faiss-tutorial/ <br>
 https://gist.github.com/jamescalam/7117aa92235a7f52141ad0654795aa48 <br>
 
-Data Collection Forked:
-https://github.com/brmson/dataset-sts
+Data Collection Forked: <br>
+https://github.com/brmson/dataset-sts <br>
 
 
 
