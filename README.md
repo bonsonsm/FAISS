@@ -11,5 +11,10 @@ Links Referenced: <br>
 Data Collection Forked: <br>
 1. [Symantic Text Similarity Dataset](https://github.com/brmson/dataset-sts) <br>
 
+Embeddings: <br>
+The embeddings have been created using two SentenceTransformer models:
+1. bert-base-nli-mean-tokens
+2. paraphrase-albert-small-v2
+
 
 
